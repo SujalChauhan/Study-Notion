@@ -5,37 +5,8 @@
   <h3> Check out at https://studynotion-frontend.vercel.app/</h3>
 </div>
 
-<br>
 
-![s1](https://github.com/Muskansahuincredible/StudyNotion-An-Online-Education-Platform/assets/133582566/749ced9e-269c-4ab4-aae5-f7ba098da825)
 
-<table align="center">
-    <thead align="center">
-        <tr border: 1px;>
-            <td><b>🌟 Stars</b></td>
-            <td><b>🍴 Forks</b></td>
-            <td><b>🐛 Issues</b></td>
-            <td><b>🔔 Open PRs</b></td>
-            <td><b>🔕 Close PRs</b></td>
-        </tr>
-     </thead>
-    <tbody>
-         <tr>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/Muskansahuincredible/StudyNotion-An-Online-Education-Platform?style=flat&logo=github"/></td>
-             <td><img alt="Forks" src="https://img.shields.io/github/forks/Muskansahuincredible/StudyNotion-An-Online-Education-Platform?style=flat&logo=github"/></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/Muskansahuincredible/StudyNotion-An-Online-Education-Platform?style=flat&logo=github"/></td>
-            <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/Muskansahuincredible/StudyNotion-An-Online-Education-Platform?style=flat&logo=github"/></td>
-           <td><img alt="Close Pull Requests" src="https://img.shields.io/github/issues-pr-closed/Muskansahuincredible/StudyNotion-An-Online-Education-Platform?style=flat&color=critical&logo=github"/></td>
-        </tr>
-    </tbody>
-</table>
-</div>
-
-## Featured In
- <div>
-    <h2><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Flexed%20Biceps.png?raw=true" width="35" height="35" > Open Source Programs</h2>
-  </div>
-  
 <table>
 
    <tr>
@@ -338,16 +309,6 @@ provide a smooth user experience while ensuring security and stability.
 <hr>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## How to Contribute?
-<a k="how-to-contribute"></a>
-<div>
-  <h3> Installation and Setup Guide </h3>
-</div
-
-<br>
-
-To get started with StudyNotion on your local machine, follow these steps:
-
 #### Prerequisites
 
 
@@ -513,28 +474,3 @@ Before you begin, ensure you have the following prerequisites installed:
 <p align="right">(<a href="#top">back to top</a>)</p>
 <!-- Open Source Programs -->
 
-<!-- Code of conduct -->
-<div>
-<h2><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="35" height="35"> Code of Conduct</h2>
-</div>
-
-Please note that this project is released with a [Contributor Code of Conduct](./CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.<br>
-
-<hr>
-
-This project is part of GirlScript Summer of Code. We enthusiastically invite contributions from the community to help elevate StudyNotion to new heights.<br>
-
-<hr>
- <!-- Contributors -->
-<div>
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="35" height="35"> Contributors</h2>
-</div>
-
-Thank you for your invaluable contributions to our project! Your support is immensely appreciated in enhancing StudyNotion. 😊
-
-<center>
-<a href="https://github.com/Muskansahuincredible/StudyNotion-An-Online-Education-Platform/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Muskansahuincredible/StudyNotion-An-Online-Education-Platform" />
-</a>
-</center>
-<p align="right">(<a href="#top">back to top</a>)</p>
